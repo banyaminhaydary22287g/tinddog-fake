@@ -1,0 +1,238 @@
+body{
+    
+    
+}
+
+
+
+#title{
+    background-color: #ff4c68;
+   
+}
+
+
+
+
+
+
+
+h1{
+    font-size: 60px;
+color: white;
+    text-decoration: black;
+    font-weight: 3.5rem;
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+
+
+.navbar{
+    padding:0 0 4.5rem;
+}
+
+.nav-item{
+    margin: 0px 18px;
+}
+
+.nav-link{
+    font-size:1.5rem;
+}
+
+.navbar-brand{
+ font-weight: bold;
+ font-size: 2.5rem;
+}
+
+
+
+
+
+
+.download-button{
+    margin: 5% 3% 5% 0 ;
+}
+
+
+
+
+
+.title-image{
+    margin-left: 150px;
+width: 390px;
+margin-bottom: 90px;
+    transform: rotate(25deg);
+    
+    position: absolute;
+ 
+   
+}
+
+
+@media (max-width:1000px) {
+
+    .title-image{
+
+      
+       position: static;
+       transform: rotate(0);
+       margin: auto;
+       
+
+    }
+
+
+
+#title{
+    text-align: center;
+}
+
+
+
+}
+
+
+
+
+
+
+#features{
+   
+
+
+   padding: 120px;
+   background-color: white;
+position: relative;
+ z-index: 1;
+
+   
+    
+}
+
+
+.box{
+    text-align: center;
+}
+
+
+
+p{
+    color:#8f8f8f;
+}
+
+
+.ican{
+   margin-bottom: 30px;
+
+    color: ef8172;
+}
+
+.ican:hover{
+    color: #ff4c68;
+   transform: scale(1.09);
+}
+
+
+
+
+
+h2{
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+#testimonials{
+  
+    background-color:  #ff4c68;
+    padding: 7% 15%;
+    text-align: center;
+    color: fff;
+}
+
+.golden{
+    width: 10%;
+    border-radius:100% ;
+}
+
+
+#press{
+    background-color: #ff4c68;
+ text-align: center;
+ padding-bottom:3%;
+ 
+ 
+}
+
+.img-brand{
+    width: 15%;
+    margin: 40px 30px 50px auto;
+}
+
+
+
+
+.carousel-item{
+
+    padding: 7% 15%;
+
+}
+
+.card{
+    text-align: center;
+}
+
+
+
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+
+
+.pricing-colom{
+padding: 3% 2%;
+}
+
+
+
+
+
+#cta{
+
+text-align: center;
+background-color: #ff4c68;
+padding: 40px ;
+padding-bottom: 100px;
+}
+
+
+
+.bottom-button{
+    margin: 20px;
+    margin-top: 40px;
+    
+} 
+
+
+
+.h3-bottom{
+   
+    font-size: 80px;
+margin-top: 90px;
+    color: white;
+}
+
+
+
+#footer{
+text-align: center;
+    padding: 7% 15%;
+}
+
+
+
+.cta-ican{
+    margin: 20px;
+    font-size: 100px;
+}
